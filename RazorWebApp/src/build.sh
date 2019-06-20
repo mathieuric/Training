@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker build -t MyRazorWebApp:latest https://github.com/mathieuric/PlayWithDocker.git#:src
+docker build -t myrazorwebapp:latest https://github.com/mathieuric/Training.git#:RazorWebApp/src
